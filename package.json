@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/andreaspencer/ORM-ecommerce/issues"
   },
-  "homepage": "https://github.com/andreaspencer/ORM-ecommerce#readme"
+  "homepage": "https://github.com/andreaspencer/ORM-ecommerce#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.3-rc.0",
+    "sequelize": "^6.9.0"
+  }
 }
