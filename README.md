@@ -26,5 +26,5 @@ This application is a back-end ecommerce database used to create, delete, and up
     - run "npm run start" 
     - open insomnia to see routes in action
 
-#### Video Tutorial
+#### Video Tutorial on Insomnia
 https://watch.screencastify.com/v/5Ex36yFnkCuWUg95lRxH
