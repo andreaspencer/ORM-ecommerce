@@ -27,4 +27,4 @@ This application is a back-end ecommerce database used to create, delete, and up
     - open insomnia to see routes in action
 
 #### Video Tutorial on Insomnia
-https://watch.screencastify.com/v/5Ex36yFnkCuWUg95lRxH
+https://watch.screencastify.com/v/vXWjk9kUXMZMohaN772G
